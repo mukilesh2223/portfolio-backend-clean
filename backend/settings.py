@@ -135,7 +135,7 @@ EMAIL_USE_TLS = True
 EMAIL_USE_SSL = False
 
 EMAIL_HOST_USER = 'infomugi123@gmail.com'
-EMAIL_HOST_PASSWORD = 'dfwh lfrq dyzy qfmf'  # 16-char password from Google
+EMAIL_HOST_PASSWORD = 'dfwhlfrqdyzyqfmf'  # 16-char password from Google
 
 DEFAULT_FROM_EMAIL = EMAIL_HOST_USER
 
